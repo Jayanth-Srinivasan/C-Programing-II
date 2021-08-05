@@ -66,6 +66,30 @@
 63.Find the length of string without strenlen.c<br>
 64.Convert to float to int-float_int.c<br>
 65.Print ASCII of char.c<br>
+66.get a string using gets()-gets_puts.c<br>
+67.print Hello without using main function-hello.c<br>
+68.Print Hollow triangle-hollow_tri.c<br>
+69.insert a value into array.c<br>
+70.input an array and display it-io-array.c<br>
+71.Find the largest among three nos-largest.c<br>
+72.Merge two arrays-merge_arr.c<br>
+73.get the number and display the month-month.c<br>
+74.Get multiple inputs and print it -multipleinputs.c<br>
+75.To check whether a string is plalindrome or not-plaindrome_no.c<br>
+76.Prime no-prime.c<br>
+77.print without semicolon-print_wo_semi.c<br>
+78.Find Profit or Loss-profit_loss.c<br>
+79.Read and then diaplay string it using pointers.c<br>
+80.write a file using fseek-seek.c<br>
+81.Find Share -share_rahul.c<br>
+82.Sort strings in alphabetical order-sot_str_apl.c<br>
+83.Split the array into two-splitarray.c<br>
+84.Store the details of employee in a file-store_emp_file.c<br>
+85.Concate the strings-str_con.c<br>
+86.Sum of elements of array-sumofarray.c<br>
+87.Temperature.c<br>
+88.Use unformatted ip op-unformatted.c<br>
+89.uppercase to lowercase-upper_to_lower.c<br>
 
 
 1. Write a C program to Accept an integer and a character as inputs. Add the integer to the character variable and output the result in character and integer datatype.
