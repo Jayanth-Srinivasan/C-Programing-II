@@ -8,7 +8,9 @@
 5.Find the Given no is Armstrong or not-Armstrong.c<br>
 6.Butterfly pattern-Butterfly.c<br>
 7.Calculator-Calc.c<br>
-8.College 
+8.College Addmission-Clg_Admi.c<br>
+9.Print 3 Consecutive Characters-Conce_char.c<br>
+10.Read from a file and write it into 
 
 1. Write a C program to Accept an integer and a character as inputs. Add the integer to the character variable and output the result in character and integer datatype.
 2. Write a C Program to illustrate the use of pointers in arithmetic operators.
