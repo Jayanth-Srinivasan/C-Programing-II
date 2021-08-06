@@ -90,6 +90,30 @@
 87.Temperature.c<br>
 88.Use unformatted ip op-unformatted.c<br>
 89.uppercase to lowercase-upper_to_lower.c<br>
+*REM:*<br>
+90.3-Dim-array-3D.c<br>
+91.Add the nos till user clicks 0-Add_till_Zer.c<br>
+92.Adding without "+"-adding_wo_symbol.c<br>
+93.Bit Manupulation using structure-bitmanu.c<br>
+94.Copy one struct to another-copy_one_structure_to_another.c<br>
+95.Copy One union to another-copy_one_union.c<br>
+96.Count no of alphabets,numbers,spl char are there in given string-Count_apl_dig.c<br>
+97.Factorial using Recursion-Fact_recur.c<br>
+98.GCD.c<br>
+99.Use of global and local variables-Global_Local.c<br>
+100.Add to distances by geting value in inches and feet using structures-Inch_struct.c<br>
+101.Finding the length of string using pointers-lenstr_pointers.c<br>
+102.Find the Max among 2 nos-Max2.c<br>
+103.Find the Max among 3 nos-Max3.c<br>
+104.Illustare the arithmetic operations using pointers-pointers_arithmetic.c<br>
+105.Rename a file using rename()-rename.c<br>
+106.Merge 2 arrays in ascending order-Sort_merge.c<br>
+107.Find the square of a no.-Square.c<br>
+108.store and read students data using structure-Student_struct.c<br>
+109.Swap 2 variables without 3 rd variable-Swap-wo_var.c<br>
+110.Union.c<br>
+111.Union_pointers.c<br>
+
 
 
 1. Write a C program to Accept an integer and a character as inputs. Add the integer to the character variable and output the result in character and integer datatype.
